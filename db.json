@@ -1,4 +1,5 @@
-[{    "id": 909,
+{
+  "posts": [{    "id": 909,
 "district": "Район",
        "potential": 300000000 ,
        "pa": 15,
@@ -14,4 +15,8 @@
        "potential": 400000000 ,
        "pa": 15,
 "visitsQty": 2
-   }]
+   }],
+  "profile": {
+    "name": "typicode"
+  }
+}
