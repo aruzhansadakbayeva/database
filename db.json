@@ -1,5 +1,6 @@
 {
-  "posts": [{    "id": 909,
+  "posts": [{    
+    "id": 909,
 "district": "Район",
        "potential": 300000000 ,
        "pa": 15,
