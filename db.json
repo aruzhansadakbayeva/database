@@ -4,18 +4,24 @@
 "district": "Район",
        "potential": 300000000 ,
        "pa": 15,
-"visitsQty": 2
+"visitsQty": 2,
+    "isFlagged": false,
+    "timestamp": 0
    },
 {    "id": 205,
 "district": "Район",
        "potential": 100000000 ,
        "pa": 15,
-"visitsQty": 2
+"visitsQty": 2,
+    "isFlagged": false,
+    "timestamp": 0
    },{    "id": 43,
 "district": "Район",
        "potential": 400000000 ,
        "pa": 15,
-"visitsQty": 2
+"visitsQty": 2,
+    "isFlagged": false,
+    "timestamp": 0
    }],
   "profile": {
     "name": "typicode"
