@@ -6,7 +6,8 @@
        "pa": 15,
 "visitsQty": 2,
     "isFlagged": false,
-    "timestamp": 0
+    "timestamp": 0,
+    "main_goal": "N/A"
    },
 {    "id": 205,
 "district": "Район",
@@ -14,14 +15,16 @@
        "pa": 15,
 "visitsQty": 2,
     "isFlagged": false,
-    "timestamp": 0
+    "timestamp": 0,
+    "main_goal": "N/A"
    },{    "id": 43,
 "district": "Район",
        "potential": 400000000 ,
        "pa": 15,
 "visitsQty": 2,
     "isFlagged": false,
-    "timestamp": 0
+    "timestamp": 0,
+    "main_goal": "N/A"
    }],
   "profile": {
     "name": "typicode"
