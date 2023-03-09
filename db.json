@@ -7,7 +7,10 @@
 "visitsQty": 2,
     "isFlagged": false,
     "timestamp": 0,
-    "main_goal": "N/A"
+    "main_goal": "N/A",
+    "culture":"N/A",
+    "stages":"N/A",
+    "problem_detection": ["N/A", "N/A","N/A", "N/A", "N/A"]
    },
 {    "id": 205,
 "district": "Район",
@@ -16,7 +19,10 @@
 "visitsQty": 2,
     "isFlagged": false,
     "timestamp": 0,
-    "main_goal": "N/A"
+    "main_goal": "N/A",
+    "culture":"N/A",
+    "stages":"N/A",
+    "problem_detection": ["N/A", "N/A","N/A", "N/A", "N/A"]
    },{    "id": 43,
 "district": "Район",
        "potential": 400000000 ,
@@ -24,7 +30,10 @@
 "visitsQty": 2,
     "isFlagged": false,
     "timestamp": 0,
-    "main_goal": "N/A"
+    "main_goal": "N/A",
+    "culture":"N/A",
+    "stages":"N/A",
+    "problem_detection": ["N/A", "N/A","N/A", "N/A", "N/A"]
    }],
   "profile": {
     "name": "typicode"
